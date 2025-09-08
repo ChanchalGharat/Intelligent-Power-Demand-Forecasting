@@ -39,6 +39,7 @@ uvicorn main:app --reload
 right click on index.html and Open with Live Server
 
 ## You will see the web page.
+<img width="1355" height="681" alt="image" src="https://github.com/user-attachments/assets/50586fea-dfa8-46f8-8cbf-679816f0c681" />
 
 
 
