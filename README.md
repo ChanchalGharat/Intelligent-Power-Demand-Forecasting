@@ -3,9 +3,13 @@ The core objective is to predict electricity demand for every 10-minute block of
 This project demonstrates an end-to-end Machine Learning workflow for Electricity Demand Forecasting, including:
 
 ✅ Exploratory Data Analysis (EDA), data cleaning, and feature engineering in Jupyter Notebook
+
 ✅ Forecasting model (Prophet) with justification
+
 ✅ Backend API (FastAPI) for serving forecasts
+
 ✅ Frontend Dashboard for visualization
+
 ✅ provided data (Utility_consumption.csv)
 
 ## 📂 Project Structure
