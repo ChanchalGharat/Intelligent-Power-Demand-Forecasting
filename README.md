@@ -15,7 +15,7 @@ This project demonstrates an end-to-end Machine Learning workflow for Electricit
 ## 📂 Project Structure
 
 
-│── Assignment1_Analysis&Modeling.ipynb    # Jupyter Notebook (EDA, cleaning, feature engineering, model justification)  
+│── Assignment1_Analysis&Modeling.ipynb  # Jupyter Notebook
 │
 │── Backend/  
 │   ├──── main.py               # Backend API (FastAPI)  
@@ -27,7 +27,7 @@ This project demonstrates an end-to-end Machine Learning workflow for Electricit
 │   ├──── index.html            # Main dashboard page  
 │   ├──── app.js                # JS logic for fetching API data  
 │   ├──── style.css             # Styling for dashboard
-│── Utility_consumption.csv   # Provided data for reproducibility  
+│── Utility_consumption.csv   # Provided data 
 │── README.md                 # Project documentation  
 
 ## Install dependencies 
