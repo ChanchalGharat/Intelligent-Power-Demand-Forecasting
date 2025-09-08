@@ -18,16 +18,16 @@ This project demonstrates an end-to-end Machine Learning workflow for Electricit
 │── Assignment1_Analysis&Modeling.ipynb    # Jupyter Notebook (EDA, cleaning, feature engineering, model justification)  
 │
 │── Backend/  
-│   ├── main.py               # Backend API (FastAPI)  
-│   ├── model_meta_v2.json    # Model metadata  
-│   ├── prophet_model_v2.pkl  # Trained model  
-│   ├── training_data_v2.xlsx # Training dataset  
-│   ├── requirement.txt        # Python dependencies        
+│   ├──── main.py               # Backend API (FastAPI)  
+│   ├──── model_meta_v2.json    # Model metadata  
+│   ├──── prophet_model_v2.pkl  # Trained model  
+│   ├──── training_data_v2.xlsx # Training dataset  
+│   ├──── requirement.txt        # Python dependencies        
 │
 │── Frontend/  
-│   ├── index.html            # Main dashboard page  
-│   ├── app.js                # JS logic for fetching API data  
-│   ├── style.css             # Styling for dashboard 
+│   ├──── index.html            # Main dashboard page  
+│   ├──── app.js                # JS logic for fetching API data  
+│   ├──── style.css             # Styling for dashboard 
 │
 │── Utility_consumption.csv   # Provided data for reproducibility  
 │── README.md                 # Project documentation  
