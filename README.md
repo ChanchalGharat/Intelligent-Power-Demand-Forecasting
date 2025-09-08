@@ -23,12 +23,10 @@ This project demonstrates an end-to-end Machine Learning workflow for Electricit
 │   ├──── prophet_model_v2.pkl  # Trained model  
 │   ├──── training_data_v2.xlsx # Training dataset  
 │   ├──── requirement.txt        # Python dependencies        
-│
 │── Frontend/  
 │   ├──── index.html            # Main dashboard page  
 │   ├──── app.js                # JS logic for fetching API data  
-│   ├──── style.css             # Styling for dashboard 
-│
+│   ├──── style.css             # Styling for dashboard
 │── Utility_consumption.csv   # Provided data for reproducibility  
 │── README.md                 # Project documentation  
 
