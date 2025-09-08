@@ -38,7 +38,7 @@ uvicorn main:app --reload
 ## Open frontend folder in vs code 
 right click on index.html and Open with Live Server
 
-## You will see the web page.
+## You will see the web page like this -
 <img width="1355" height="681" alt="image" src="https://github.com/user-attachments/assets/50586fea-dfa8-46f8-8cbf-679816f0c681" />
 
 
